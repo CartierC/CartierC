@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CartierC
 - 👀 I’m interested in ... Learning and invovating the current planet we reside on 
-- 🌱 I’m currently learning ... CS50 
+- 🌱 I’m currently learning ... ALOT
 - 💞️ I’m looking to collaborate on ... a lot of cool projects.
 - 📫 How to reach me ... via email, even on here if possible. 
 - 😄 Pronouns: ... HE 
