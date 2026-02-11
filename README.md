@@ -4,7 +4,7 @@ Cloud & Infrastructure Technologist | AWS | Backend & Systems Foundations
 
 Atlanta, GA
 GitHub: https://github.com/CartierC
-Email: carterjj69@gmail.com
+Email: colossalhorizonsllc@outlook.com
 
 ⸻
 
