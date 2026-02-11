@@ -1,4 +1,5 @@
 CartierC
+
 Cloud & Infrastructure Technologist | AWS | Backend & Systems Foundations
 
 Atlanta, GA
