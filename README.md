@@ -1,4 +1,4 @@
-- Justin Carter
+Justin Carter
 
 Cloud & Infrastructure Technologist | AWS | Systems Reliability | Backend Foundations
 
